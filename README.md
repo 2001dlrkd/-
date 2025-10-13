@@ -9,7 +9,7 @@ XG5000
 3. 파란색 두 번째 버튼을 눌러 신호등 비활성화
 
 ## 프로그램 사진 및 영상
-[https://github.com/2001dlrkd/-/issues/1#issue-3510225219](https://github.com/2001dlrkd/-/issues/1#issue-3510225219)
+> <img alt="Image" width="1502" height="934" src="https://private-user-images.githubusercontent.com/66360344/500532410-78fbd7fa-51bc-4a08-8685-48545c45ea79.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAzNjQ4NDksIm5iZiI6MTc2MDM2NDU0OSwicGF0aCI6Ii82NjM2MDM0NC81MDA1MzI0MTAtNzhmYmQ3ZmEtNTFiYy00YTA4LTg2ODUtNDg1NDVjNDVlYTc5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEzVDE0MDkwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkNDVhMzFiNzg2NjBmY2JjZTI2NGEwYzE0ZWI2ZWJjN2VjODkxNWQ5MzYyMWU5ZDUzZGFlZWU3OWZiMjliMWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8b1yyJ_VSlTSMACWyRvXMBhrpMLGaseaenx60-_v9N0">
 
 
 # 영상(유튜브)
