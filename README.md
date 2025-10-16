@@ -17,3 +17,4 @@ XG5000
 
 # 영상(유튜브)
 
+https://www.youtube.com/shorts/LDk2_70Ew5c
